@@ -20,7 +20,6 @@ The goal of this project is to democratize and automize the process by using ima
 - [Rooftop dataset](https://github.com/loosgagnet/Building-detection-and-roof-type-recognition)
 - Tools for Solar Potential 
 	- [Hong Kong Baptist University Solar Map](https://digital.lib.hkbu.edu.hk/solarmap/intro.php)
-		- 
 	- [Project sunroof](https://www.google.com/get/sunroof) by Google 
 		- Only available in US 
 
